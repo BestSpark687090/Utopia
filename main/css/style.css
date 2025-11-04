@@ -37,7 +37,7 @@ body {
   animation: 0.7s fadeIn;
   background-color: #081d28;
   
-  font-family: 'Montserrat';
+  font-family: "Comic Sans MS", cursive;
 }
 
 .center {
@@ -72,7 +72,7 @@ br {
   color: white;
   animation: 0.7s fadeIn;
   text-align: center;
-  /*font-family: Roboto Mono;*/
+  /*font-family: "Comic Sans MS", cursive;*/
   /*padding: 30px 50px;
   background-color: rgba(0,0,0,0.6);
   border-radius: 5px;*/
@@ -81,7 +81,7 @@ br {
 #gamContent {
   margin: auto;
   margin-top: 50px !important;
-  font-family: 'Montserrat';
+  font-family: "Comic Sans MS", cursive;
   color: lightgray;
   padding: 30px 50px;
   text-align: center;
@@ -228,7 +228,7 @@ br {
   color: lightgray;
   text-align: center;
   font-size: 20px;
-  font-family: 'Montserrat';
+  font-family: "Comic Sans MS", cursive;
   font-weight: 200;
   transition-duration: 0.3s;
 }

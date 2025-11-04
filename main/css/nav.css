@@ -14,12 +14,12 @@
   /*height: 55px; /* sets height */
   /*height: 58px;*/
   height: 60px;
-  font-family: 'Raleway', sans-serif;
+  font-family: "Comic Sans MS", cursive;
 }
 
 .navbar .title {
   transition-duration: 0.2s;
-  font-family: 'Montserrat';
+  font-family: "Comic Sans MS", cursive;
   font-weight: 500;
   font-size: 1.8rem;
   letter-spacing: 0.05rem;
